@@ -9,5 +9,5 @@ I'm **Azimjon Xolmirzayev**, an Android Developer specializing in Kotlin & Java.
 
 ## 📫 Get in Touch  
 - 🌐 [azimjon.com.uz](https://azimjon.com.uz)  
-- 📧 azimjon.xolmirzayev@gmail.com  
+- 📧 azimjonxolmirzayev30@gmail.com  
 - 🏙️ Based in Uzbekistan  
