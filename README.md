@@ -8,6 +8,6 @@ I'm **Azimjon Xolmirzayev**, an Android Developer specializing in Kotlin & Java.
 - Algorithms and Data Structures  
 
 ## 📫 Get in Touch  
-- 🌐 [azimjon.dev](https://azimjon.com.uz)  
+- 🌐 [azimjon.com.uz](https://azimjon.com.uz)  
 - 📧 azimjon.xolmirzayev@gmail.com  
 - 🏙️ Based in Uzbekistan  
